@@ -1,4 +1,4 @@
-"use strict"
+"use strict" 
 
 // Import the dependencies
 const cheerio = require("cheerio")
